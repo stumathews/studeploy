@@ -1,0 +1,14 @@
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\ComputerNamesPlugin\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\ComputerNamesPlugin\bin\Release\ComputerNamesPlugin.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\ComputerNamesPlugin\bin\Release\ComputerNamesPlugin.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\ComputerNamesPlugin\bin\Release\ComponentsDefinition.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\ComputerNamesPlugin\bin\Release\InterfaceDefinitions.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\ComputerNamesPlugin\bin\Release\StuDeploy.exe
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\ComputerNamesPlugin\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\ComputerNamesPlugin\bin\Release\StuDeploy.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\ComputerNamesPlugin\bin\Release\InterfaceDefinitions.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\ComputerNamesPlugin\bin\Release\ComponentsDefinition.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\ComputerNamesPlugin\obj\Release\ComputerNamesPlugin.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\ComputerNamesPlugin\obj\Release\ComputerNamesPlugin.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\StuDeploy\bin\Debug\ComputerNamesPlugin.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\StuDeploy\bin\Debug\ComputerNamesPlugin.pdb

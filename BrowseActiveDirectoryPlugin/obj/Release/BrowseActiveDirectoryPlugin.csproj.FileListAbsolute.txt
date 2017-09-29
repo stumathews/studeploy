@@ -1,0 +1,16 @@
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\BrowseActiveDirectoryPlugin\bin\Release\BrowseActiveDirectoryPlugin.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\BrowseActiveDirectoryPlugin\bin\Release\BrowseActiveDirectoryPlugin.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\BrowseActiveDirectoryPlugin\bin\Release\BrowseActiveDirectory.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\BrowseActiveDirectoryPlugin\bin\Release\BrowseActiveDirectory.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\BrowseActiveDirectoryPlugin\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\BrowseActiveDirectoryPlugin\obj\Release\BrowseActiveDirectoryPlugin.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\BrowseActiveDirectoryPlugin\obj\Release\BrowseActiveDirectoryPlugin.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\OpenDeploy\bin\Debug\BrowseActiveDirectoryPlugin.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\OpenDeploy\bin\Debug\BrowseActiveDirectoryPlugin.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\OpenDeploy\bin\Debug\BrowseActiveDirectoryPlugin.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\OpenDeploy\bin\Debug\BrowseActiveDirectoryPlugin.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\BrowseActiveDirectoryPlugin\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\BrowseActiveDirectoryPlugin\obj\Release\BrowseActiveDirectoryPlugin.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\BrowseActiveDirectoryPlugin\obj\Release\BrowseActiveDirectoryPlugin.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\StuDeploy\bin\Debug\BrowseActiveDirectoryPlugin.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\StuDeploy\bin\Debug\BrowseActiveDirectoryPlugin.pdb

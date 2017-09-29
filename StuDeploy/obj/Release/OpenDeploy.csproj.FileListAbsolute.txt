@@ -1,0 +1,16 @@
+C:\Documents and Settings\stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\OpenDeploy\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\OpenDeploy\obj\Release\OpenDeploy.Properties.Resources.resources
+C:\Documents and Settings\stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\OpenDeploy\obj\Release\OpenDeploy.csproj.GenerateResource.Cache
+C:\Documents and Settings\stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\OpenDeploy\obj\Release\OpenDeploy.TheDockContent.resources
+C:\Documents and Settings\stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\OpenDeploy\bin\Release\OpenDeploy.exe
+C:\Documents and Settings\stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\OpenDeploy\bin\Release\OpenDeploy.pdb
+C:\Documents and Settings\stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\OpenDeploy\obj\Release\OpenDeploy.exe
+C:\Documents and Settings\stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\OpenDeploy\obj\Release\OpenDeploy.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\OpenDeploy\obj\Release\OpenDeploy.ConsoleForm.resources
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\OpenDeploy\obj\Release\OpenDeploy.DiscoverComputers.resources
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\OpenDeploy\obj\Release\OpenDeploy.ListComputersView.resources
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\OpenDeploy\obj\Release\OpenDeploy.OpenDeploy.resources
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\OpenDeploy\obj\Release\OpenDeploy.AboutBox.resources
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\OpenDeploy\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\OpenDeploy\bin\Release\InterfaceDefinitions.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\OpenDeploy\bin\Release\InterfaceDefinitions.pdb

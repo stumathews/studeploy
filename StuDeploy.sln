@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowseActiveDirectoryPlugin", "BrowseActiveDirectoryPlugin\BrowseActiveDirectoryPlugin.csproj", "{CD741F39-FB59-4009-9CE7-E1D9FBB17FB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceDefinitions", "InterfaceDefinitions\InterfaceDefinitions.csproj", "{4BB2EEA5-5485-4C16-8F99-D477892C5612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StuDeploy", "StuDeploy\StuDeploy.csproj", "{3F080C1E-F233-46ED-A695-6C9637E8CCD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentsDefinition", "ComponentsDefinition\ComponentsDefinition.csproj", "{C9ECBFAE-F091-4BDE-BDF0-0B08975648C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerNamesPlugin", "ComputerNamesPlugin\ComputerNamesPlugin.csproj", "{DB0B0315-C24D-4658-9098-0DF9E828B249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacExplorer", "MacExplorer\MacExplorer.csproj", "{20DF8788-4DA5-42AC-9009-574C34EA1B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD741F39-FB59-4009-9CE7-E1D9FBB17FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD741F39-FB59-4009-9CE7-E1D9FBB17FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD741F39-FB59-4009-9CE7-E1D9FBB17FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD741F39-FB59-4009-9CE7-E1D9FBB17FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BB2EEA5-5485-4C16-8F99-D477892C5612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB2EEA5-5485-4C16-8F99-D477892C5612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB2EEA5-5485-4C16-8F99-D477892C5612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB2EEA5-5485-4C16-8F99-D477892C5612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F080C1E-F233-46ED-A695-6C9637E8CCD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F080C1E-F233-46ED-A695-6C9637E8CCD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F080C1E-F233-46ED-A695-6C9637E8CCD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F080C1E-F233-46ED-A695-6C9637E8CCD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9ECBFAE-F091-4BDE-BDF0-0B08975648C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9ECBFAE-F091-4BDE-BDF0-0B08975648C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9ECBFAE-F091-4BDE-BDF0-0B08975648C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9ECBFAE-F091-4BDE-BDF0-0B08975648C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB0B0315-C24D-4658-9098-0DF9E828B249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0B0315-C24D-4658-9098-0DF9E828B249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0B0315-C24D-4658-9098-0DF9E828B249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0B0315-C24D-4658-9098-0DF9E828B249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DF8788-4DA5-42AC-9009-574C34EA1B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DF8788-4DA5-42AC-9009-574C34EA1B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DF8788-4DA5-42AC-9009-574C34EA1B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DF8788-4DA5-42AC-9009-574C34EA1B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

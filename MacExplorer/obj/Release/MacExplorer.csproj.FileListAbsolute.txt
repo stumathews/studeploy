@@ -1,0 +1,5 @@
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\MacExplorer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\StuDeploy\bin\Debug\MacExplorer.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\StuDeploy\bin\Debug\MacExplorer.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\MacExplorer\obj\Release\MacExplorer.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\MacExplorer\obj\Release\MacExplorer.pdb

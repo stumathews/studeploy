@@ -1,0 +1,5 @@
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\ComponentsDefinition\bin\Debug\ComponentsDefinition.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\ComponentsDefinition\bin\Debug\ComponentsDefinition.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\ComponentsDefinition\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\ComponentsDefinition\obj\Debug\ComponentsDefinition.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\ComponentsDefinition\obj\Debug\ComponentsDefinition.pdb

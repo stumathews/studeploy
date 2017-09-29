@@ -1,0 +1,17 @@
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\BrowseActiveDirectory\bin\Release\BrowseActiveDirectory.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\BrowseActiveDirectory\bin\Release\BrowseActiveDirectory.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\BrowseActiveDirectory\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\BrowseActiveDirectory\obj\Release\BrowseActiveDirectory.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\BrowseActiveDirectory\obj\Release\BrowseActiveDirectory.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\InterfaceDefinitions\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\InterfaceDefinitions\bin\Release\InterfaceDefinitions.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\InterfaceDefinitions\bin\Release\InterfaceDefinitions.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\InterfaceDefinitions\obj\Release\InterfaceDefinitions.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\OpenDeploy\InterfaceDefinitions\obj\Release\InterfaceDefinitions.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\InterfaceDefinitions\bin\Release\InterfaceDefinitions.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\InterfaceDefinitions\bin\Release\InterfaceDefinitions.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\InterfaceDefinitions\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\InterfaceDefinitions\obj\Release\InterfaceDefinitions.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\InterfaceDefinitions\obj\Release\InterfaceDefinitions.pdb
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\InterfaceDefinitions\bin\Release\ComponentsDefinition.dll
+C:\Documents and Settings\Stuart\My Documents\Visual Studio 2008\Projects\StuDeploy\InterfaceDefinitions\bin\Release\ComponentsDefinition.pdb
